@@ -1,5 +1,4 @@
 MATTHEW MCDANIEL
 
-If you stumbled upon this, its just to test how Github functions
-__________________________________________________________________________________________________________________________________________
-I may put some of my c++ projects here, i'm not too sure however
+This is just a dump of projects that I can look back on in the future
+
